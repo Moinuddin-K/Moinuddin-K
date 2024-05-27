@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Moinuddin Khaja
 
-### Software/DevOps Engineer
+### Software Engineer
 
 - 🚀 Experienced Software Engineer with a passion for building scalable and high-performance solutions<br>
 - 💡 Skilled in full-stack development, cloud computing, and leveraging cutting-edge technologies<br>
