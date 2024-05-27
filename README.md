@@ -8,7 +8,8 @@
 - 📚 Continuously learning and exploring new technologies to stay ahead of the curve<br>
 - 💼 3+ years of professional experience in software development and system design<br>
 - 🌐 Proficient in Java, Python, Javascript, React, Node.js, AWS, Docker, and various databases<br>
-- 📧 Let's connect! Email me at moinuddink298@gmail.com<br>
+- 📜 AWS Certified Solutions Architect – Associate. [View Certificate](https://www.credly.com/earner/earned/badge/dac35e1b-8c46-48a6-8d11-52461b3f9524)<br>
+- 📧 Let's connect! Email me at [moinuddink298@gmail.com](mailto:moinuddink298@gmail.com)<br>
 
 
 <br/>
